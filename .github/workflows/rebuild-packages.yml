@@ -9,22 +9,26 @@ permissions:
 jobs:
   rebuild:
     runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ github.token }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Install package tools
-        run: sudo apt-get update && sudo apt-get install --yes dpkg-dev
+        run: sudo apt-get update && sudo apt-get install --yes dpkg-dev jq
 
       - name: Download all Release DEB files
         run: |
           set -euo pipefail
           for tag in game application; do
-            if gh release view "$tag" >/dev/null 2>&1; then
+            release_json=$(curl --fail --location --silent --show-error \
+              "https://api.github.com/repos/$GITHUB_REPOSITORY/releases/tags/$tag" || true)
+            if [ -n "$release_json" ]; then
               mkdir -p "work/$tag"
-              gh release download "$tag" --pattern '*.deb' --dir "work/$tag" --clobber || true
+              while IFS= read -r url; do
+                name="$(basename "$url")"
+                curl --fail --location --retry 3 \
+                  --output "work/$tag/$name" "$url"
+              done < <(jq -r '.assets[] | select(.name | endswith(".deb")) | .browser_download_url' <<< "$release_json")
             fi
           done
           compgen -G 'work/*/*.deb' > /dev/null || {
