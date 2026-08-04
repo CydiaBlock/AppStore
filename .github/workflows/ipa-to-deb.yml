@@ -27,6 +27,7 @@ jobs:
       RELEASE_TAG: ${{ inputs.release_tag }}
       REPOSITORY: ${{ github.repository }}
       SERVER_URL: ${{ github.server_url }}
+      PROXY_URL: https://cydia.cloudpanic.org
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -75,8 +76,6 @@ jobs:
           gh release upload "$RELEASE_TAG" work/deb/*.deb --clobber
 
       - name: Rebuild Packages metadata
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: scripts/update-packages.sh
 
       - name: Commit Packages metadata
