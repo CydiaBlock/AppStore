@@ -13,4 +13,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Talking Gina v2.0 (iOS 4.1)](https://cydia.cloudpanic.org/game/com.outfit7.talkinggina-2.0-iOS-4.1.deb) — `com.outfit7.talkinggina-2.0-iOS-4.1.deb`
 - [Neighbours From Hell v1 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.nordicgames.nfh-1-iOS-6.0.deb) — `com.nordicgames.nfh-1-iOS-6.0.deb`
 - [Z.Tsunami v14 (iOS 6.0)](https://cydia.cloudpanic.org/game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb) — `net.mobigame.ZombieCarnaval-14-iOS-6.0.deb`
+- [1 vs 100 v1.1.4 (iOS 2.2.1)](https://cydia.cloudpanic.org/game/com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb) — `com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb`
 
