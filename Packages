@@ -130,3 +130,22 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: GTA Vice City v1.5.1 (iOS 5.1.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+
+Package: com.rockstargames.gta3vc
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.rockstargames.gta3vc-1.3-iOS-4.3.deb
+Size: 923405350
+MD5sum: d2d96abf44e6e0453e00328700255ef2
+SHA1: f36c4639dae2636ac02c1d61c1dbe05868fc61f5
+SHA256: 942ead9fc7f3966909b105d3ec1a279236c6b55d022be7a2177fb0c69720125b
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Grand%20Theft%20Auto%20-%20Vice%20City%20v1.3%20(IOS%204.3+).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: GTA Vice City v1.3 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
