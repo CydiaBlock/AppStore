@@ -4,7 +4,7 @@ Version: 1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <actions@github.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.nordicgames.nfh-1-iOS-6.0.deb
+Filename: ./game/com.nordicgames.nfh-1-iOS-6.0.deb
 Size: 299863014
 MD5sum: a964c2a76cca81608f0bd547b71f0a5d
 SHA1: 9f1de53b82ba5788385513956a94afd3d7867c2d
@@ -23,7 +23,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <actions@github.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.dotgears.flap-1.0.0-iOS-6.0.deb
+Filename: ./game/com.dotgears.flap-1.0.0-iOS-6.0.deb
 Size: 1403834
 MD5sum: eb143054b30012ee23edb0b4cd444fb6
 SHA1: b853ae7e024c92d7b7a8605f88e745a18edd51cb
@@ -42,7 +42,7 @@ Version: 4111.1.32
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./application/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
+Filename: ./game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
 Size: 154278694
 MD5sum: a77747c43f9b8cbfc226f066c359b5b6
 SHA1: 10af4c81c7d9e70ced524799300c807c12e3dae2
@@ -60,7 +60,7 @@ Version: 4111.1.32
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./application/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
+Filename: ./game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
 Size: 154278748
 MD5sum: 7a379cc851f3069212d7769d5a7ac312
 SHA1: f31a73b802d2c9040d2765382d54e140f488f1fc
@@ -79,7 +79,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./application/com.treehouse.1951-1.0-iOS-3.0.deb
+Filename: ./game/com.treehouse.1951-1.0-iOS-3.0.deb
 Size: 15627470
 MD5sum: b1affe861d52236a11c11d8f992490e5
 SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
@@ -90,5 +90,24 @@ Description: The decrypted ipa file: 1951_1.0_AppOnly.ipa converted to .deb auto
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: 1951 v1.0 (iOS 3.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+
+Package: com.masq.321jump
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 2.0), uikittools, appsync
+Filename: ./game/com.masq.321jump-2.0-iOS-2.0.deb
+Size: 4612768
+MD5sum: b9620bda9e34182a49075475dec32aa8
+SHA1: dc0898d8c9679d5f4749b7a49c2223c66de7c44b
+SHA256: 7d0c98cfa4b87e705366deff4a647a71732cc6982ffc9ca8626eb20ff495babf
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 321Jump_2.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 321Jump v2.0 (iOS 2.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
