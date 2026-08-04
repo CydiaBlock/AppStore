@@ -1,0 +1,66 @@
+name: Rebuild Packages index
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install package tools
+        run: sudo apt-get update && sudo apt-get install --yes dpkg-dev
+
+      - name: Download all Release DEB files
+        run: |
+          set -euo pipefail
+          for tag in game application; do
+            if gh release view "$tag" >/dev/null 2>&1; then
+              mkdir -p "work/$tag"
+              gh release download "$tag" --pattern '*.deb' --dir "work/$tag" --clobber || true
+            fi
+          done
+          compgen -G 'work/*/*.deb' > /dev/null || {
+            echo "No DEB assets found in game/application releases" >&2
+            exit 1
+          }
+
+      - name: Rebuild Packages metadata
+        run: |
+          set -euo pipefail
+          : > Packages
+          for tag in game application; do
+            compgen -G "work/$tag/*.deb" > /dev/null || continue
+            dpkg-scanpackages -m "work/$tag" /dev/null \
+              | awk -v tag="$tag" '
+                  /^Filename: / {
+                    name = $0
+                    sub(/^Filename: .*\//, "", name)
+                    print "Filename: ./" tag "/" name
+                    next
+                  }
+                  { print }
+                ' >> Packages
+            printf '\n' >> Packages
+          done
+          gzip --keep --force --best Packages
+
+      - name: Commit Packages metadata
+        run: |
+          set -euo pipefail
+          git config user.name dopaemon
+          git config user.email polarisdp@gmail.com
+          git add Packages Packages.gz
+          if git diff --cached --quiet; then
+            echo "Packages metadata unchanged"
+            exit 0
+          fi
+          git commit -s -m "Rebuild package index"
+          git push origin "HEAD:$GITHUB_REF_NAME"
