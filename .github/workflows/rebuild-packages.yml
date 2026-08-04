@@ -60,12 +60,17 @@ jobs:
           done
           gzip --keep --force --best Packages
 
+      - name: Update README package list
+        env:
+          PROXY_URL: https://cydia.cloudpanic.org
+        run: scripts/update-readme.sh
+
       - name: Commit Packages metadata
         run: |
           set -euo pipefail
           git config user.name dopaemon
           git config user.email polarisdp@gmail.com
-          git add Packages Packages.gz
+          git add Packages Packages.gz README.md
           if git diff --cached --quiet; then
             echo "Packages metadata unchanged"
             exit 0

@@ -31,6 +31,7 @@ jobs:
       RELEASE_TAG: ${{ inputs.release_tag }}
       REPOSITORY: ${{ github.repository }}
       SERVER_URL: ${{ github.server_url }}
+      PROXY_URL: https://cydia.cloudpanic.org
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -77,12 +78,15 @@ jobs:
       - name: Rebuild Packages metadata
         run: scripts/update-packages.sh
 
+      - name: Update README package list
+        run: scripts/update-readme.sh
+
       - name: Commit Packages metadata
         run: |
           set -euo pipefail
           git config user.name dopaemon
           git config user.email polarisdp@gmail.com
-          git add Packages Packages.gz
+          git add Packages Packages.gz README.md
           if git diff --cached --quiet; then
             echo "Packages metadata unchanged"
             exit 0
