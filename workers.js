@@ -1,9 +1,10 @@
-const REPO = "CydiaBlock/AppStore";
+const ASSET_REPO = "CydiaBlock/AppStore";
+const INDEX_REPO = "CydiaBlock/CydiaBlock.github.io";
 const RELEASES = new Set(["game", "application"]);
 const INDEXES = new Set(["Packages", "Packages.gz"]);
 
 const rawFile = (name) =>
-  `https://raw.githubusercontent.com/${REPO}/main/${name}`;
+  `https://raw.githubusercontent.com/${INDEX_REPO}/main/${name}`;
 
 export default {
   async fetch(request) {
@@ -42,7 +43,7 @@ export default {
       return new Response("Not found", { status: 404 });
     }
 
-    const origin = `https://github.com/${REPO}/releases/download/${tag}/${encodeURIComponent(asset)}`;
+    const origin = `https://github.com/${ASSET_REPO}/releases/download/${tag}/${encodeURIComponent(asset)}`;
     return fetch(new Request(origin, request), { redirect: "follow" });
   },
 };
