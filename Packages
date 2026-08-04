@@ -34,24 +34,6 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: 321Jump v2.0 (iOS 2.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.nordicgames.nfh
-Version: 1
-Architecture: iphoneos-arm
-Maintainer: dopaemon <actions@github.com>
-Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/com.nordicgames.nfh-1-iOS-6.0.deb
-Size: 299863014
-MD5sum: a964c2a76cca81608f0bd547b71f0a5d
-SHA1: 9f1de53b82ba5788385513956a94afd3d7867c2d
-SHA256: 603054ec570286506c5fc362c39979ccefaabefb9be53fede452e32a1a9fd024
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Neighbours_From_Hell_3.5_ios_6.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <actions@github.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Neighbours From Hell v1 (iOS 6.0)
-Sponsor: dopaemon <actions@github.com>
-
 Package: com.popcap.PvZiPad
 Version: 4111.1.32
 Architecture: iphoneos-arm
@@ -176,5 +158,23 @@ Description: The decrypted ipa file: 402688503%2B2.0%2BTalking+Gina+the+Giraffe+
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: Talking Gina v2.0 (iOS 4.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.nordicgames.nfh
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.nordicgames.nfh-1-iOS-6.0.deb
+Size: 299862956
+MD5sum: 30e6bc52e88a850d0d013d05dd55a8f1
+SHA1: 8f732a4e0e24cf16f3b4c98c1e94b03b82d27264
+SHA256: bb21cf842e1c2ce6cf520577c384983eb0f397dc40d6aaf9d8deaac2c1d8cd32
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Neighbours_From_Hell_3.5_ios_6.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Neighbours From Hell v1 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
