@@ -57,7 +57,7 @@ jobs:
             https://raw.githubusercontent.com/alex-free/ipa2deb/bcaac774d738c54b8656678c3f508ca22a8e9522/ipa2deb
           chmod +x work/ipa2deb
           work/ipa2deb work/ipa work/deb \
-            "${GITHUB_ACTOR} <actions@github.com>" \
+            "dopaemon <polarisdp@gmail.com>" \
             "$SERVER_URL/$REPOSITORY"
           compgen -G 'work/deb/*.deb' > /dev/null || {
             echo "No DEB was generated" >&2
@@ -82,8 +82,8 @@ jobs:
       - name: Commit Packages metadata
         run: |
           set -euo pipefail
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config user.name dopaemon
+          git config user.email polarisdp@gmail.com
           git add Packages Packages.gz
           if git diff --cached --quiet; then
             echo "Packages metadata unchanged"
