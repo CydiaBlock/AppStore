@@ -28,6 +28,29 @@ fi
 
 dpkg-scanpackages -m work/deb /dev/null > work/new-Packages
 rewrite_filenames work/new-Packages > work/new-Packages.direct
-printf '\n' >> Packages
-cat work/new-Packages.direct >> Packages
+awk '/^Filename: / { print $2 }' Packages > work/known-files
+awk -v RS='' -v ORS='\n\n' -v known=work/known-files '
+  BEGIN {
+    while ((getline file < known) > 0) seen[file] = 1
+    close(known)
+  }
+  {
+    file = ""
+    count = split($0, lines, "\n")
+    for (i = 1; i <= count; i++) {
+      if (lines[i] ~ /^Filename: /) {
+        file = lines[i]
+        sub(/^Filename: /, "", file)
+      }
+    }
+    if (file != "" && !seen[file]) {
+      print $0
+      seen[file] = 1
+    }
+  }
+' work/new-Packages.direct > work/unique-Packages
+if [ -s work/unique-Packages ]; then
+  [ ! -s Packages ] || printf '\n' >> Packages
+  cat work/unique-Packages >> Packages
+fi
 gzip --keep --force --best Packages
