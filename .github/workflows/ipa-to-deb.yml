@@ -32,7 +32,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install package tools
-        run: sudo apt-get update && sudo apt-get install --yes dpkg-dev
+        run: sudo apt-get update && sudo apt-get install --yes aria2 dpkg-dev
 
       - name: Download and convert IPA files
         run: |
@@ -48,7 +48,8 @@ jobs:
             esac
             name="$(basename "${url%%\?*}")"
             [[ "$name" == *.ipa ]] || { echo "URL is not an IPA: $url" >&2; exit 1; }
-            curl --fail --location --retry 3 --output "work/ipa/$name" "$url"
+            aria2c -s16 -x16 --allow-overwrite=true \
+              --dir=work/ipa --out="$name" "$url"
           done <<< "$IPA_URLS"
 
           curl --fail --location --retry 3 \
