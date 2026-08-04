@@ -3,6 +3,10 @@ name: Rebuild Packages index
 on:
   workflow_dispatch:
 
+concurrency:
+  group: package-index
+  cancel-in-progress: false
+
 permissions:
   contents: write
 

@@ -16,6 +16,10 @@ on:
           - game
           - application
 
+concurrency:
+  group: package-index
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
