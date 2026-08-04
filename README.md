@@ -8,4 +8,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [PvZ HD v4111.1.32 (iOS 5.1.1)](https://cydia.cloudpanic.org/game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb) — `com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb`
 - [1951 v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.treehouse.1951-1.0-iOS-3.0.deb) — `com.treehouse.1951-1.0-iOS-3.0.deb`
 - [321Jump v2.0 (iOS 2.0)](https://cydia.cloudpanic.org/game/com.masq.321jump-2.0-iOS-2.0.deb) — `com.masq.321jump-2.0-iOS-2.0.deb`
+- [GTA Vice City v1.5.1 (iOS 5.1.1)](https://cydia.cloudpanic.org/game/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb) — `com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb`
 
