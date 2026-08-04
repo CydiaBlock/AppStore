@@ -1,9 +1,5 @@
 const REPO = "CydiaBlock/AppStore";
 const RELEASES = new Set(["game", "application"]);
-const INDEXES = new Set(["Packages", "Packages.gz"]);
-
-const rawFile = (name) =>
-  `https://raw.githubusercontent.com/${REPO}/main/${name}`;
 
 export default {
   async fetch(request) {
@@ -15,18 +11,6 @@ export default {
     }
 
     const path = new URL(request.url).pathname.split("/").filter(Boolean);
-    if (path.length === 1 && INDEXES.has(path[0])) {
-      return fetch(new Request(rawFile(path[0]), request), { redirect: "follow" });
-    }
-
-    if (
-      path.length === 2 &&
-      RELEASES.has(path[0]) &&
-      INDEXES.has(path[1])
-    ) {
-      return fetch(new Request(rawFile(path[1]), request), { redirect: "follow" });
-    }
-
     if (path.length < 2 || !RELEASES.has(path[0])) {
       return new Response("Not found", { status: 404 });
     }
