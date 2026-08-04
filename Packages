@@ -17,3 +17,22 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Neighbours From Hell v1 (iOS 6.0)
 Sponsor: dopaemon <actions@github.com>
 
+
+Package: com.dotgears.flap
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <actions@github.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: https://github.com/CydiaBlock/AppStore/releases/download/game/com.dotgears.flap-1.0.0-iOS-6.0.deb
+Size: 1403834
+MD5sum: eb143054b30012ee23edb0b4cd444fb6
+SHA1: b853ae7e024c92d7b7a8605f88e745a18edd51cb
+SHA256: 91aea7589a6f1bc56f72822d2a6954145932adc94eee0aa980697eed9db6dc78
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Flappy%20Bird-v1.0.0-iDexRiky-iOS6.0-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <actions@github.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Flappy Bird v1.0.0 (iOS 6.0)
+Sponsor: dopaemon <actions@github.com>
+
