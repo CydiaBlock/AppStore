@@ -11,7 +11,8 @@ if [ ! -f Packages ]; then
 fi
 
 dpkg-scanpackages -m work/deb /dev/null \
-  | sed -E "s#^Filename: .*/([^/]+\.deb)$#Filename: ${SERVER_URL}/${REPOSITORY}/releases/download/${RELEASE_TAG}/\1#" \
+  | awk -v base="$SERVER_URL/$REPOSITORY/releases/download/$RELEASE_TAG" \
+    '/^Filename: / { sub(/^Filename: .*\//, "Filename: " base "/"); } { print }' \
   > work/new-Packages
 printf '\n' >> Packages
 cat work/new-Packages >> Packages

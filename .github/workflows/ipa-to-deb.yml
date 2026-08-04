@@ -88,5 +88,5 @@ jobs:
             echo "Packages metadata unchanged"
             exit 0
           fi
-          git commit -m "Update package index for $RELEASE_TAG"
+          git commit -s -m "Update package index for $RELEASE_TAG"
           git push origin "HEAD:$GITHUB_REF_NAME"
