@@ -27,17 +27,9 @@ jobs:
       RELEASE_TAG: ${{ inputs.release_tag }}
       REPOSITORY: ${{ github.repository }}
       SERVER_URL: ${{ github.server_url }}
-      INDEX_DIR: cydia-repo
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Checkout package index repository
-        uses: actions/checkout@v4
-        with:
-          repository: CydiaBlock/CydiaBlock.github.io
-          token: ${{ secrets.PAGES_TOKEN }}
-          path: cydia-repo
 
       - name: Install package tools
         run: sudo apt-get update && sudo apt-get install --yes aria2 dpkg-dev
@@ -90,11 +82,10 @@ jobs:
           set -euo pipefail
           git config user.name dopaemon
           git config user.email polarisdp@gmail.com
-          cd "$INDEX_DIR"
           git add Packages Packages.gz
           if git diff --cached --quiet; then
             echo "Packages metadata unchanged"
             exit 0
           fi
           git commit -s -m "Update package index for $RELEASE_TAG"
-          git push origin HEAD:main
+          git push origin "HEAD:$GITHUB_REF_NAME"
