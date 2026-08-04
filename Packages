@@ -160,3 +160,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: 2048 v1.4 (iOS 4.3)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.outfit7.talkinggina
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.1), uikittools, appsync
+Filename: ./game/com.outfit7.talkinggina-2.0-iOS-4.1.deb
+Size: 41826700
+MD5sum: bb7f621a1b011becf1e29cae225111a5
+SHA1: e7d486e5e5da5230eaec399ad4f6464202f1a9f3
+SHA256: 8e16697e7e85306f063bc170b3de157acc890a90ed0aff2d1977a3c55490e36e
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 402688503%2B2.0%2BTalking+Gina+the+Giraffe+New%2BAP.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Talking Gina v2.0 (iOS 4.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+

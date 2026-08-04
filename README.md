@@ -12,4 +12,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Z.Tsunami v14 (iOS 6.0)](https://cydia.cloudpanic.org/game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb) — `net.mobigame.ZombieCarnaval-14-iOS-6.0.deb`
 - [1951 v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.treehouse.1951-1.0-iOS-3.0.deb) — `com.treehouse.1951-1.0-iOS-3.0.deb`
 - [2048 v1.4 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.ketchapp.2048-1.4-iOS-4.3.deb) — `com.ketchapp.2048-1.4-iOS-4.3.deb`
+- [Talking Gina v2.0 (iOS 4.1)](https://cydia.cloudpanic.org/game/com.outfit7.talkinggina-2.0-iOS-4.1.deb) — `com.outfit7.talkinggina-2.0-iOS-4.1.deb`
 
