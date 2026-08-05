@@ -628,3 +628,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: The Room Two v6 (iOS 5.1.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.ASPHALT4
+Version: 1.3.8
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 2.1), uikittools, appsync
+Filename: ./game/com.gameloft.ASPHALT4-1.3.8-iOS-2.1.deb
+Size: 91251554
+MD5sum: 0f5e3a1b3cf6bd71c009601f830dbeb4
+SHA1: 012e2dba9894aa153a77a5a6a1d709edd570f261
+SHA256: 16b9a1e1db5b5190eb6372e59a10c95d0529570c53d16262661ec1c51f802181
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: ASPHALT4.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: ASPHALT4 v1.3.8 (iOS 2.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
