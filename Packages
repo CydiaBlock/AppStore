@@ -1,3 +1,21 @@
+Package: com.afoli.pikachu
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.0), uikittools, appsync
+Filename: ./game/com.afoli.pikachu-1.0-iOS-3.0.deb
+Size: 3216234
+MD5sum: 227769a9f8988ebc7915207d77a0c647
+SHA1: 50a5941ca8f4e3abfc344cb0ab60b6edfc3d832e
+SHA256: a0266b1f5ad5d38de5038cc2b87cca0c0351967e8e4175af3ad2b3a3afeeb02d
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Pikachu%28v1.0%29.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Pikachu v1.0 (iOS 3.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
 Package: com.dotgears.flap
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -16,166 +34,94 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Flappy Bird v1.0.0 (iOS 6.0)
 Sponsor: dopaemon <actions@github.com>
 
-Package: com.masq.321jump
-Version: 2.0
+Package: com.gameloft.9mm
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 2.0), uikittools, appsync
-Filename: ./game/com.masq.321jump-2.0-iOS-2.0.deb
-Size: 4612768
-MD5sum: b9620bda9e34182a49075475dec32aa8
-SHA1: dc0898d8c9679d5f4749b7a49c2223c66de7c44b
-SHA256: 7d0c98cfa4b87e705366deff4a647a71732cc6982ffc9ca8626eb20ff495babf
+Depends: firmware (>= 5.1), uikittools, appsync
+Filename: ./game/com.gameloft.9mm-1.0.3-iOS-5.1.deb
+Size: 753905952
+MD5sum: 3c599c2fca1cff81bf25056fed28125e
+SHA1: d654c2c7215337bc12a46cd613e9ee93a4385c1e
+SHA256: 972c17bc9f9df418ce8ca7aac5ae29d14b2db811913d012122847f22c93944ea
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: 321Jump_2.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: 9mm%20by%20Gameloft%20%281.0.3%29.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: 321Jump v2.0 (iOS 2.0)
+Name: 9mm v1.0.3 (iOS 5.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.popcap.PvZiPad
-Version: 4111.1.32
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
-Size: 154278748
-MD5sum: 7a379cc851f3069212d7769d5a7ac312
-SHA1: f31a73b802d2c9040d2765382d54e140f488f1fc
-SHA256: f2ba4d2f8f9ebbc89ad01f0d629d6bc36ac241a3c4d889436d01ae2316c3d811
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: PvZ%20HD%201.9.9.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: PvZ HD v4111.1.32 (iOS 5.1.1)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.rockstargames.gta3vc
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./game/com.rockstargames.gta3vc-1.3-iOS-4.3.deb
-Size: 923405350
-MD5sum: d2d96abf44e6e0453e00328700255ef2
-SHA1: f36c4639dae2636ac02c1d61c1dbe05868fc61f5
-SHA256: 942ead9fc7f3966909b105d3ec1a279236c6b55d022be7a2177fb0c69720125b
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Grand%20Theft%20Auto%20-%20Vice%20City%20v1.3%20(IOS%204.3+).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: GTA Vice City v1.3 (iOS 4.3)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.rockstargames.gta3vc
-Version: 1.5.1
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./game/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb
-Size: 923935922
-MD5sum: 4ad6c6e7d6000a9e520a3efd9c67c3e7
-SHA1: 640ad2b82d97d9779d2c5ee36367b66a21231b89
-SHA256: 8c75f616a77e6981a5be5ae26052782e361435abe4b48d5bc60dcb6bfa089a22
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: GTA%20Vice%20City-v1.5.1--iOS5.1.1-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: GTA Vice City v1.5.1 (iOS 5.1.1)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.treehouse.1951
-Version: 1.0
+Package: com.gameloft.AssassinsCreed
+Version: 1.3.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./game/com.treehouse.1951-1.0-iOS-3.0.deb
-Size: 15627470
-MD5sum: b1affe861d52236a11c11d8f992490e5
-SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
-SHA256: bf0b974352ab9146d55b4ed4710bc73804ec4caf791358ec4ac25ad239c483b2
+Filename: ./game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb
+Size: 165715444
+MD5sum: 69a04a8a4db0e471db2f12a0ccc6cae5
+SHA1: fb9852882adecf26a3e6e24ce3c2dd45aa99b74c
+SHA256: 289b37bcb0805d96c7de7c7ce4414bcab02b766288e37c6d80db98a6cd523f69
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: 1951_1.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: Assassin%20s%20Creed%20Altair%20s%20Chronicles%20v1.3.3_LP_os30_-Locophone-ICPDA.rc318.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: 1951 v1.0 (iOS 3.0)
+Name: AssassinsCreed v1.3.3 (iOS 3.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.ketchapp.2048
-Version: 1.4
+Package: com.gameloft.BIA
+Version: 1.3.5
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./game/com.ketchapp.2048-1.4-iOS-4.3.deb
-Size: 2170342
-MD5sum: 5e855da17d4a205d228ba845ddf2d8a5
-SHA1: 5fb5ff860029b5ada3d49e1ad2bea0660de1e231
-SHA256: 147b1a5dda9b907949d9be33c19a009018f8b8b69316c5aa2d333792e65ca5b6
+Depends: firmware (>= 3.1.2), uikittools, appsync
+Filename: ./game/com.gameloft.BIA-1.3.5-iOS-3.1.2.deb
+Size: 91113258
+MD5sum: cfc87b0a173c4039ea5d1023955ed020
+SHA1: 623ef467c90f149f8a7dc2f32a367a78eb2735eb
+SHA256: d3fc58e0e180b6f11f6756970c36053381c3afc7dce57675c38f253c186734e9
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: com.ketchapp.2048_1.4_ios-4.3_2048_762fdc1e.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: Brothers%20In%20Arms%20-%20Hour%20of%20Heroes%201.3.5.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: 2048 v1.4 (iOS 4.3)
+Name: BIA v1.3.5 (iOS 3.1.2)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.outfit7.talkinggina
-Version: 2.0
+Package: com.gameloft.BackStab
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 4.1), uikittools, appsync
-Filename: ./game/com.outfit7.talkinggina-2.0-iOS-4.1.deb
-Size: 41826700
-MD5sum: bb7f621a1b011becf1e29cae225111a5
-SHA1: e7d486e5e5da5230eaec399ad4f6464202f1a9f3
-SHA256: 8e16697e7e85306f063bc170b3de157acc890a90ed0aff2d1977a3c55490e36e
+Depends: firmware (>= 3.1.3), uikittools, appsync
+Filename: ./game/com.gameloft.BackStab-1.0.0-iOS-3.1.3.deb
+Size: 609553076
+MD5sum: 6a209531eac7b3ceef5d2af1abb57a3f
+SHA1: a44cbc8e0bf2df08234e98bcafc59e62b2cd2516
+SHA256: 3b61c12580a55b9ce0df286cb80689a924654c6b15cdc5e6ea08934ce281363a
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: 402688503%2B2.0%2BTalking+Gina+the+Giraffe+New%2BAP.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: BackStab%201.0.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: Talking Gina v2.0 (iOS 4.1)
+Name: BackStab v1.0.0 (iOS 3.1.3)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.nordicgames.nfh
-Version: 1
+Package: com.gameloft.BladesOfFury
+Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/com.nordicgames.nfh-1-iOS-6.0.deb
-Size: 299862956
-MD5sum: 30e6bc52e88a850d0d013d05dd55a8f1
-SHA1: 8f732a4e0e24cf16f3b4c98c1e94b03b82d27264
-SHA256: bb21cf842e1c2ce6cf520577c384983eb0f397dc40d6aaf9d8deaac2c1d8cd32
+Depends: firmware (>= 2.2.1), uikittools, appsync
+Filename: ./game/com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb
+Size: 125795498
+MD5sum: 6028f6dd6ce06cd9d483e5f1e805374c
+SHA1: da5966e1a3f68c4df16fdf011abb1c3f92d5d143
+SHA256: 3a197edba15c4b443dd7ff0b9cc04f1cf29ab9060748cafbf8057c18c770a555
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Neighbours_From_Hell_3.5_ios_6.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: Blades%20of%20Fury_v.1.1.3.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: Neighbours From Hell v1 (iOS 6.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: net.mobigame.ZombieCarnaval
-Version: 14
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb
-Size: 68050474
-MD5sum: 609fce38a1cb9b79e0c30f293eb2e055
-SHA1: a4a6986307cfac63ee7b47cca7213f4fec992983
-SHA256: 434c53ae0ef6400772e8d878a517966c6a78b90e40f55dda91c3c336b097930c
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Z.Tsunami-(net.mobigame.ZombieCarnaval)-14-(iOS_6.0)-2476488bcea0c06745c661d13c4e3959.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Z.Tsunami v14 (iOS 6.0)
+Name: BladesOfFury v1.1.3 (iOS 2.2.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
 Package: com.gameloft.OneVsHundred
@@ -232,6 +178,42 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: MyTetris-Lite v121 (iOS 5.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.ketchapp.2048
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.ketchapp.2048-1.4-iOS-4.3.deb
+Size: 2170342
+MD5sum: 5e855da17d4a205d228ba845ddf2d8a5
+SHA1: 5fb5ff860029b5ada3d49e1ad2bea0660de1e231
+SHA256: 147b1a5dda9b907949d9be33c19a009018f8b8b69316c5aa2d333792e65ca5b6
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.ketchapp.2048_1.4_ios-4.3_2048_762fdc1e.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 2048 v1.4 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.masq.321jump
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 2.0), uikittools, appsync
+Filename: ./game/com.masq.321jump-2.0-iOS-2.0.deb
+Size: 4612768
+MD5sum: b9620bda9e34182a49075475dec32aa8
+SHA1: dc0898d8c9679d5f4749b7a49c2223c66de7c44b
+SHA256: 7d0c98cfa4b87e705366deff4a647a71732cc6982ffc9ca8626eb20ff495babf
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 321Jump_2.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 321Jump v2.0 (iOS 2.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
 Package: com.nordcurrent.101in1HD
 Version: 1.0.6
 Architecture: iphoneos-arm
@@ -250,76 +232,94 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: 101 GamesHD v1.0.6 (iOS 5.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.apple.iBooks
-Version: 1929
+Package: com.nordicgames.nfh
+Version: 1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./game/com.apple.iBooks-1929-iOS-5.0.deb
-Size: 29762498
-MD5sum: 735a1dd350e73eb843523b0a9b02ed37
-SHA1: 8c9b2efa8df0b0a5fe5fcf39e58ee0cc50607a25
-SHA256: e3235d3fd2d5a3149fdfafc2c9b1ef39256dec1ae7eb24784f99df3f65cee7bb
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.nordicgames.nfh-1-iOS-6.0.deb
+Size: 299862956
+MD5sum: 30e6bc52e88a850d0d013d05dd55a8f1
+SHA1: 8f732a4e0e24cf16f3b4c98c1e94b03b82d27264
+SHA256: bb21cf842e1c2ce6cf520577c384983eb0f397dc40d6aaf9d8deaac2c1d8cd32
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: iBooks_3.1.3_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: Neighbours_From_Hell_3.5_ios_6.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: iBooks v1929 (iOS 5.0)
+Name: Neighbours From Hell v1 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.afoli.pikachu
-Version: 1.0
+Package: com.outfit7.talkinggina
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./game/com.afoli.pikachu-1.0-iOS-3.0.deb
-Size: 3216234
-MD5sum: 227769a9f8988ebc7915207d77a0c647
-SHA1: 50a5941ca8f4e3abfc344cb0ab60b6edfc3d832e
-SHA256: a0266b1f5ad5d38de5038cc2b87cca0c0351967e8e4175af3ad2b3a3afeeb02d
+Depends: firmware (>= 4.1), uikittools, appsync
+Filename: ./game/com.outfit7.talkinggina-2.0-iOS-4.1.deb
+Size: 41826700
+MD5sum: bb7f621a1b011becf1e29cae225111a5
+SHA1: e7d486e5e5da5230eaec399ad4f6464202f1a9f3
+SHA256: 8e16697e7e85306f063bc170b3de157acc890a90ed0aff2d1977a3c55490e36e
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Pikachu%28v1.0%29.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: 402688503%2B2.0%2BTalking+Gina+the+Giraffe+New%2BAP.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: Pikachu v1.0 (iOS 3.0)
+Name: Talking Gina v2.0 (iOS 4.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.gameloft.9mm
-Version: 1.0.3
+Package: com.popcap.PvZiPad
+Version: 4111.1.32
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 5.1), uikittools, appsync
-Filename: ./game/com.gameloft.9mm-1.0.3-iOS-5.1.deb
-Size: 753905952
-MD5sum: 3c599c2fca1cff81bf25056fed28125e
-SHA1: d654c2c7215337bc12a46cd613e9ee93a4385c1e
-SHA256: 972c17bc9f9df418ce8ca7aac5ae29d14b2db811913d012122847f22c93944ea
+Depends: firmware (>= 5.1.1), uikittools, appsync
+Filename: ./game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
+Size: 154278748
+MD5sum: 7a379cc851f3069212d7769d5a7ac312
+SHA1: f31a73b802d2c9040d2765382d54e140f488f1fc
+SHA256: f2ba4d2f8f9ebbc89ad01f0d629d6bc36ac241a3c4d889436d01ae2316c3d811
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: 9mm%20by%20Gameloft%20%281.0.3%29.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: PvZ%20HD%201.9.9.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: 9mm v1.0.3 (iOS 5.1)
+Name: PvZ HD v4111.1.32 (iOS 5.1.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.gameloft.BladesOfFury
-Version: 1.1.3
+Package: com.rockstargames.gta3vc
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 2.2.1), uikittools, appsync
-Filename: ./game/com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb
-Size: 125795498
-MD5sum: 6028f6dd6ce06cd9d483e5f1e805374c
-SHA1: da5966e1a3f68c4df16fdf011abb1c3f92d5d143
-SHA256: 3a197edba15c4b443dd7ff0b9cc04f1cf29ab9060748cafbf8057c18c770a555
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.rockstargames.gta3vc-1.3-iOS-4.3.deb
+Size: 923405350
+MD5sum: d2d96abf44e6e0453e00328700255ef2
+SHA1: f36c4639dae2636ac02c1d61c1dbe05868fc61f5
+SHA256: 942ead9fc7f3966909b105d3ec1a279236c6b55d022be7a2177fb0c69720125b
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Blades%20of%20Fury_v.1.1.3.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: Grand%20Theft%20Auto%20-%20Vice%20City%20v1.3%20(IOS%204.3+).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: BladesOfFury v1.1.3 (iOS 2.2.1)
+Name: GTA Vice City v1.3 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.rockstargames.gta3vc
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.1.1), uikittools, appsync
+Filename: ./game/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb
+Size: 923935922
+MD5sum: 4ad6c6e7d6000a9e520a3efd9c67c3e7
+SHA1: 640ad2b82d97d9779d2c5ee36367b66a21231b89
+SHA256: 8c75f616a77e6981a5be5ae26052782e361435abe4b48d5bc60dcb6bfa089a22
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: GTA%20Vice%20City-v1.5.1--iOS5.1.1-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: GTA Vice City v1.5.1 (iOS 5.1.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
 Package: net.mobigame.ZombieCarnaval
@@ -339,4 +339,60 @@ Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: Z.Tsunami v13 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: net.mobigame.ZombieCarnaval
+Version: 14
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb
+Size: 68050474
+MD5sum: 609fce38a1cb9b79e0c30f293eb2e055
+SHA1: a4a6986307cfac63ee7b47cca7213f4fec992983
+SHA256: 434c53ae0ef6400772e8d878a517966c6a78b90e40f55dda91c3c336b097930c
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Z.Tsunami-(net.mobigame.ZombieCarnaval)-14-(iOS_6.0)-2476488bcea0c06745c661d13c4e3959.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Z.Tsunami v14 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+
+Package: com.apple.iBooks
+Version: 1929
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./application/com.apple.iBooks-1929-iOS-5.0.deb
+Size: 29762498
+MD5sum: 735a1dd350e73eb843523b0a9b02ed37
+SHA1: 8c9b2efa8df0b0a5fe5fcf39e58ee0cc50607a25
+SHA256: e3235d3fd2d5a3149fdfafc2c9b1ef39256dec1ae7eb24784f99df3f65cee7bb
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: iBooks_3.1.3_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: iBooks v1929 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.treehouse.1951
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.0), uikittools, appsync
+Filename: ./application/com.treehouse.1951-1.0-iOS-3.0.deb
+Size: 15627470
+MD5sum: b1affe861d52236a11c11d8f992490e5
+SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
+SHA256: bf0b974352ab9146d55b4ed4710bc73804ec4caf791358ec4ac25ad239c483b2
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 1951_1.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 1951 v1.0 (iOS 3.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
 
