@@ -772,3 +772,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Asphalt 8 v1.4.0 (iOS 5.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.asphalt8
+Version: 1.7.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphalt8-1.7.2-iOS-5.0.deb
+Size: 1144814314
+MD5sum: 9003b3660a84e7de80dd50eab48beb7e
+SHA1: 80f7537c37ed4a74016743185b75c6a7d39e782c
+SHA256: 8d8d41c4fb0f5ccbb4538b1a4e407be93db81820ff21bb7af563f059182ed231
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Asphalt%208-v1.7.2--iOS5.0-(Clutch-1.4.6)_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt 8 v1.7.2 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+

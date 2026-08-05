@@ -46,4 +46,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Asphalt7 v1.8.1 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb) — `com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb`
 - [Asphalt 8 v1.0.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.0.0-iOS-5.0.deb) — `com.gameloft.asphalt8-1.0.0-iOS-5.0.deb`
 - [Asphalt 8 v1.4.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.4.0-iOS-5.0.deb) — `com.gameloft.asphalt8-1.4.0-iOS-5.0.deb`
+- [Asphalt 8 v1.7.2 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.7.2-iOS-5.0.deb) — `com.gameloft.asphalt8-1.7.2-iOS-5.0.deb`
 
