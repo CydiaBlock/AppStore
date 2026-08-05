@@ -898,3 +898,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: AVATARiPad v1.1.0 (iOS 3.2)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.BIA2ipad
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.2), uikittools, appsync
+Filename: ./game/com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb
+Size: 264084480
+MD5sum: 7e3a914c1dc93547af8efe3d027567cd
+SHA1: 66ae13868ac47150ac75671168e92992f9e23eea
+SHA256: 515614856d71cb43f86195b829304400cec38e3fe34069a268b27e4a28f47563
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: BIA2HD_v1.0.2_os32_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: BIA2HD v1.0.2 (iOS 3.2)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
