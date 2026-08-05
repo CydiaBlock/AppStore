@@ -304,3 +304,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: 9mm v1.0.3 (iOS 5.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.BladesOfFury
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 2.2.1), uikittools, appsync
+Filename: ./game/com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb
+Size: 125795498
+MD5sum: 6028f6dd6ce06cd9d483e5f1e805374c
+SHA1: da5966e1a3f68c4df16fdf011abb1c3f92d5d143
+SHA256: 3a197edba15c4b443dd7ff0b9cc04f1cf29ab9060748cafbf8057c18c770a555
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Blades%20of%20Fury_v.1.1.3.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: BladesOfFury v1.1.3 (iOS 2.2.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
