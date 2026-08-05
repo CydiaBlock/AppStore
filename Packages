@@ -268,24 +268,6 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Asphalt 6 v1.5.1 (iOS 3.2)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.gameloft.AssassinsCreed
-Version: 1.3.3
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb
-Size: 165715444
-MD5sum: 69a04a8a4db0e471db2f12a0ccc6cae5
-SHA1: fb9852882adecf26a3e6e24ce3c2dd45aa99b74c
-SHA256: 289b37bcb0805d96c7de7c7ce4414bcab02b766288e37c6d80db98a6cd523f69
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Assassin%20s%20Creed%20Altair%20s%20Chronicles%20v1.3.3_LP_os30_-Locophone-ICPDA.rc318.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: AssassinsCreed v1.3.3 (iOS 3.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
 Package: com.gameloft.BIA
 Version: 1.3.5
 Architecture: iphoneos-arm
@@ -842,5 +824,23 @@ Description: The decrypted ipa file: AmazingSpiderMan_v1.0.3_os40.ipa converted 
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: AmazingSpiderMan v1.0.3 (iOS 4.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.AssassinsCreed
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.0), uikittools, appsync
+Filename: ./game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb
+Size: 165780100
+MD5sum: 04aae843b16325ccf89d1478f18da6c4
+SHA1: d6940bb8ebcafe7a537aebc1ed0e8e57bff223e4
+SHA256: 39bcbb667cd03323be1881aefd7167f26127ac3390479a6bbf7efd73291f0d20
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.AssassinsCreed-iOS3.0-(Clutch-2.0.4).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: AssassinsCreed v1.3.3 (iOS 3.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 

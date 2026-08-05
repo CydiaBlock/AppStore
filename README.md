@@ -18,7 +18,6 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Asphalt5 v1.2.6 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt5-1.2.6-iOS-3.0.deb) — `com.gameloft.Asphalt5-1.2.6-iOS-3.0.deb`
 - [Asphalt5iPad v1.1.1 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt5iPad-1.1.1-iOS-3.2.deb) — `com.gameloft.Asphalt5iPad-1.1.1-iOS-3.2.deb`
 - [Asphalt 6 v1.5.1 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt6ipad-1.5.1-iOS-3.2.deb) — `com.gameloft.Asphalt6ipad-1.5.1-iOS-3.2.deb`
-- [AssassinsCreed v1.3.3 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb) — `com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb`
 - [BIA v1.3.5 (iOS 3.1.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA-1.3.5-iOS-3.1.2.deb) — `com.gameloft.BIA-1.3.5-iOS-3.1.2.deb`
 - [BackStab v1.0.0 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.BackStab-1.0.0-iOS-3.1.3.deb) — `com.gameloft.BackStab-1.0.0-iOS-3.1.3.deb`
 - [BladesOfFury v1.1.3 (iOS 2.2.1)](https://cydia.cloudpanic.org/game/com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb) — `com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb`
@@ -50,4 +49,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [AsphaltAudiRS3 v1.0.1 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb) — `com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb`
 - [Asphalt O v1.0.2 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb) — `com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb`
 - [AmazingSpiderMan v1.0.3 (iOS 4.0)](https://cydia.cloudpanic.org/game/com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb) — `com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb`
+- [AssassinsCreed v1.3.3 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb) — `com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb`
 
