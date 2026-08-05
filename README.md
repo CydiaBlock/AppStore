@@ -21,4 +21,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Pikachu v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.afoli.pikachu-1.0-iOS-3.0.deb) — `com.afoli.pikachu-1.0-iOS-3.0.deb`
 - [9mm v1.0.3 (iOS 5.1)](https://cydia.cloudpanic.org/game/com.gameloft.9mm-1.0.3-iOS-5.1.deb) — `com.gameloft.9mm-1.0.3-iOS-5.1.deb`
 - [BladesOfFury v1.1.3 (iOS 2.2.1)](https://cydia.cloudpanic.org/game/com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb) — `com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb`
+- [Z.Tsunami v13 (iOS 6.0)](https://cydia.cloudpanic.org/game/net.mobigame.ZombieCarnaval-13-iOS-6.0.deb) — `net.mobigame.ZombieCarnaval-13-iOS-6.0.deb`
 

@@ -322,3 +322,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: BladesOfFury v1.1.3 (iOS 2.2.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: net.mobigame.ZombieCarnaval
+Version: 13
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/net.mobigame.ZombieCarnaval-13-iOS-6.0.deb
+Size: 57080082
+MD5sum: 3fba39ad0647edb4c5522a936c229831
+SHA1: 702ef5dea5569cb13b168695b3807a21fbef224a
+SHA256: 9a5b712b549fb072e4b8689896c887865b85386e8c29c871c45e95d06dd3f3ce
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Z.Tsunami-v3.2.0-no-name-cracker-(Clutch-1.4.1).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Z.Tsunami v13 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
