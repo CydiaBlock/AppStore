@@ -16,4 +16,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [1 vs 100 v1.1.4 (iOS 2.2.1)](https://cydia.cloudpanic.org/game/com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb) — `com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb`
 - [Warriors 4 v1170 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.glu.ewarriors4-1170-iOS-6.0.deb) — `com.glu.ewarriors4-1170-iOS-6.0.deb`
 - [MyTetris-Lite v121 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.hzapptech.tetris-lite-121-iOS-5.0.deb) — `com.hzapptech.tetris-lite-121-iOS-5.0.deb`
+- [101 GamesHD v1.0.6 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.nordcurrent.101in1HD-1.0.6-iOS-5.0.deb) — `com.nordcurrent.101in1HD-1.0.6-iOS-5.0.deb`
 

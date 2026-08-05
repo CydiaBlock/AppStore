@@ -232,3 +232,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: MyTetris-Lite v121 (iOS 5.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.nordcurrent.101in1HD
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.nordcurrent.101in1HD-1.0.6-iOS-5.0.deb
+Size: 224201134
+MD5sum: c4f510a752e0c54b749e2de7b3810ea8
+SHA1: bce49fe0219f6fbe002ca89b04a933a871514573
+SHA256: e0593749399f45fb28576f76c02595c6845f4113d5e461f202622c207ee1c636
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 101+GamesHD_1.0.6_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 101 GamesHD v1.0.6 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
