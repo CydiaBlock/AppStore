@@ -40,4 +40,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [The Room Two v6 (iOS 5.1.1)](https://cydia.cloudpanic.org/game/com.FireproofStudios.TheRoom2-6-iOS-5.1.1.deb) — `com.FireproofStudios.TheRoom2-6-iOS-5.1.1.deb`
 - [ASPHALT4 v1.3.8 (iOS 2.1)](https://cydia.cloudpanic.org/game/com.gameloft.ASPHALT4-1.3.8-iOS-2.1.deb) — `com.gameloft.ASPHALT4-1.3.8-iOS-2.1.deb`
 - [Asphalt5 v1.2.6 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt5-1.2.6-iOS-3.0.deb) — `com.gameloft.Asphalt5-1.2.6-iOS-3.0.deb`
+- [Asphalt 6 v1.5.1 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt6ipad-1.5.1-iOS-3.2.deb) — `com.gameloft.Asphalt6ipad-1.5.1-iOS-3.2.deb`
 

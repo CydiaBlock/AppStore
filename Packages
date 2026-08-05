@@ -664,3 +664,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Asphalt5 v1.2.6 (iOS 3.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.Asphalt6ipad
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.2), uikittools, appsync
+Filename: ./game/com.gameloft.Asphalt6ipad-1.5.1-iOS-3.2.deb
+Size: 909985144
+MD5sum: e9f58fc5aecc70d5020c2664242d904a
+SHA1: 9e8b8ceec368a17e582b14d9bd077b6d489fbcd4
+SHA256: 90c3221bbd0a2698ff40e0f96b6a260a302a5ca9fd059342fc1d9b3bf87b75bc
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Asphalt%206%20Adrenaline%20HD%20v1.5.1%20(IOS%203.2+%20for%20iPads%20Only).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt 6 v1.5.1 (iOS 3.2)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
