@@ -23,8 +23,7 @@ Decrypted iOS applications and games converted to DEB packages.
 - [GTA Vice City v1.5.1 (iOS 5.1.1)](https://cydia.cloudpanic.org/game/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb) — `com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb`
 - [Z.Tsunami v13 (iOS 6.0)](https://cydia.cloudpanic.org/game/net.mobigame.ZombieCarnaval-13-iOS-6.0.deb) — `net.mobigame.ZombieCarnaval-13-iOS-6.0.deb`
 - [Z.Tsunami v14 (iOS 6.0)](https://cydia.cloudpanic.org/game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb) — `net.mobigame.ZombieCarnaval-14-iOS-6.0.deb`
-
-## Application
-- [iBooks v1929 (iOS 5.0)](https://cydia.cloudpanic.org/application/com.apple.iBooks-1929-iOS-5.0.deb) — `com.apple.iBooks-1929-iOS-5.0.deb`
-- [1951 v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/application/com.treehouse.1951-1.0-iOS-3.0.deb) — `com.treehouse.1951-1.0-iOS-3.0.deb`
+- [iBooks v1929 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.apple.iBooks-1929-iOS-5.0.deb) — `com.apple.iBooks-1929-iOS-5.0.deb`
+- [1951 v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.treehouse.1951-1.0-iOS-3.0.deb) — `com.treehouse.1951-1.0-iOS-3.0.deb`
+- [Plague Inc. v1.10.1 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.ndemiccreations.plagueinc-1.10.1-iOS-4.3.deb) — `com.ndemiccreations.plagueinc-1.10.1-iOS-4.3.deb`
 

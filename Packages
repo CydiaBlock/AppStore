@@ -358,13 +358,12 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Z.Tsunami v14 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-
 Package: com.apple.iBooks
 Version: 1929
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.apple.iBooks-1929-iOS-5.0.deb
+Filename: ./game/com.apple.iBooks-1929-iOS-5.0.deb
 Size: 29762498
 MD5sum: 735a1dd350e73eb843523b0a9b02ed37
 SHA1: 8c9b2efa8df0b0a5fe5fcf39e58ee0cc50607a25
@@ -382,7 +381,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./application/com.treehouse.1951-1.0-iOS-3.0.deb
+Filename: ./game/com.treehouse.1951-1.0-iOS-3.0.deb
 Size: 15627470
 MD5sum: b1affe861d52236a11c11d8f992490e5
 SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
@@ -395,4 +394,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: 1951 v1.0 (iOS 3.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.ndemiccreations.plagueinc
+Version: 1.10.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.ndemiccreations.plagueinc-1.10.1-iOS-4.3.deb
+Size: 52995418
+MD5sum: 414ab4f9243944818e4ca568e2384a23
+SHA1: 11ef9d32adfde80a1b85a647f044b0c82aae7e02
+SHA256: b27936027fe20d7e25630cc954b9d49ed4371b74ab8152992591fd6afd3dd7fa
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Plague%20Inc.-v1.10.1-no-name-cracker-(Clutch-1.4.1).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Plague Inc. v1.10.1 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
 
