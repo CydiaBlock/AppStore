@@ -844,3 +844,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: AssassinsCreed v1.3.3 (iOS 3.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.AssassinsCreediPad
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb
+Size: 273456700
+MD5sum: c7e4a58a77c11dd2801ebb8529373e4d
+SHA1: 30fb2cef23c3121d1da49e83b2374ffb8366d068
+SHA256: b9ed40a7076c62370117e68b1c576c2b86d1367d7b5cbe41684039180caeeb0b
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Assassins_Creed_Altairs_Chronicles_HD_1.0.1_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Assassins Creed HD v1.0.1 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
