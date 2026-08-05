@@ -15,4 +15,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Z.Tsunami v14 (iOS 6.0)](https://cydia.cloudpanic.org/game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb) — `net.mobigame.ZombieCarnaval-14-iOS-6.0.deb`
 - [1 vs 100 v1.1.4 (iOS 2.2.1)](https://cydia.cloudpanic.org/game/com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb) — `com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb`
 - [Warriors 4 v1170 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.glu.ewarriors4-1170-iOS-6.0.deb) — `com.glu.ewarriors4-1170-iOS-6.0.deb`
+- [MyTetris-Lite v121 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.hzapptech.tetris-lite-121-iOS-5.0.deb) — `com.hzapptech.tetris-lite-121-iOS-5.0.deb`
 

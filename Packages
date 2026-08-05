@@ -214,3 +214,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Warriors 4 v1170 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.hzapptech.tetris-lite
+Version: 121
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.hzapptech.tetris-lite-121-iOS-5.0.deb
+Size: 18886518
+MD5sum: 517d88e604609ab10ae6f0e726df8bc7
+SHA1: 04a32e70c0e267954e9e7c7a2f77c591fa9e6ec5
+SHA256: 491d6da34d3a83cc93f346a9e7652557f6f7e8d5fc6ed83e41830489c6ad3c2d
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Bricks_4.2.1_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: MyTetris-Lite v121 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
