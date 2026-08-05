@@ -484,3 +484,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Cut the Rope v2.6 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.ninjakiwi.bloonstd5
+Version: 13454
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb
+Size: 93077588
+MD5sum: 7172c13412fa10a55329fe8fb8ac65d2
+SHA1: b30d32a2bd5152b9ef3f1123279d3c6b051a4f99
+SHA256: d66278ef8f4c5abddf724fa24e797c1730a6bc1a89f27897e15da2c791b4d28e
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Bloons%20TD%205-v2.16--iOS4.3-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Bloons TD 5 v13454 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
