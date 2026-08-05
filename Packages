@@ -808,3 +808,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: AsphaltAudiRS3 v1.0.1 (iOS 3.1.3)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.asphaltexplosion
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb
+Size: 87747818
+MD5sum: 93a14abd247a07dc815dc4b3fc2c4b66
+SHA1: 6302d773d62c5a0ec4826a519da8e99b016ba4a8
+SHA256: 2ad29ae2b3b9898d93291ced37e79ed457dd17f2dc6b8b1c74680a9503fc9be4
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.asphaltexplosion_1.0.2_ios-6.0_asphalt-o_afb1949f.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt O v1.0.2 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
