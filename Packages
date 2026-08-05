@@ -610,3 +610,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: The Room Three v8 (iOS 5.1.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.FireproofStudios.TheRoom2
+Version: 6
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.1.1), uikittools, appsync
+Filename: ./game/com.FireproofStudios.TheRoom2-6-iOS-5.1.1.deb
+Size: 310950622
+MD5sum: 0039f536a76ca50d79e43a7529370f96
+SHA1: 4031e39fdb9b3344d4732234b54cc5b15d168d27
+SHA256: 4f3a3ef63346984305859310e3f5807c73e0d2c24b4ab8dfc54d153bc2943918
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: TheRoomTwo1.1.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: The Room Two v6 (iOS 5.1.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
