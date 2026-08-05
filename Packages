@@ -412,3 +412,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Plague Inc. v1.10.1 (iOS 4.3)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.ndemiccreations.plagueinc
+Version: 1.12.6
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.ndemiccreations.plagueinc-1.12.6-iOS-6.0.deb
+Size: 55149338
+MD5sum: 0aed6c113a2449c3ba50b2b9788c3a46
+SHA1: 16c6bd459f3d8009bcd7e6776e828a504e8f760d
+SHA256: e6a95b91a762996628ec90b79c911eff6b364467496a48b693c0250d36e8c6dc
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Plague%20Inc.-v1.12.5-no-name-cracker-(Clutch-1.4.1).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Plague Inc. v1.12.6 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
