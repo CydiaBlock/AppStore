@@ -32,4 +32,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Cut the Rope v2.6 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.chillingo.cuttherope-2.6-iOS-6.0.deb) — `com.chillingo.cuttherope-2.6-iOS-6.0.deb`
 - [Bloons TD 5 v13454 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb) — `com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb`
 - [Bloons TD 5 v20421 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.ninjakiwi.bloonstd5-20421-iOS-6.0.deb) — `com.ninjakiwi.bloonstd5-20421-iOS-6.0.deb`
+- [Bloons TD 5 HD v13198 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.ninjakiwi.bloonstd5hd-13198-iOS-4.3.deb) — `com.ninjakiwi.bloonstd5hd-13198-iOS-4.3.deb`
 
