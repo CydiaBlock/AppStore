@@ -646,3 +646,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: ASPHALT4 v1.3.8 (iOS 2.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.Asphalt5
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.0), uikittools, appsync
+Filename: ./game/com.gameloft.Asphalt5-1.2.6-iOS-3.0.deb
+Size: 279858036
+MD5sum: 14e2fac30bacb8fc8c98b0a9c4a5cffd
+SHA1: 258954842158152c3703688288d9e53f6738e27a
+SHA256: f64faf4f73a2768b1cca82ccf54526a98ce2496b28d85997a6b93e4a1e5f6d4c
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Asphalt5-v1.2.6--iOS3.0-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt5 v1.2.6 (iOS 3.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
