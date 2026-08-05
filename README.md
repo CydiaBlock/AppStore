@@ -44,4 +44,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [1951 v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.treehouse.1951-1.0-iOS-3.0.deb) — `com.treehouse.1951-1.0-iOS-3.0.deb`
 - [Asphalt 6 v1.3.8 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb) — `com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb`
 - [Asphalt7 v1.8.1 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb) — `com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb`
+- [Asphalt 8 v1.0.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.0.0-iOS-5.0.deb) — `com.gameloft.asphalt8-1.0.0-iOS-5.0.deb`
 
