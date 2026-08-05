@@ -27,4 +27,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [1951 v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.treehouse.1951-1.0-iOS-3.0.deb) — `com.treehouse.1951-1.0-iOS-3.0.deb`
 - [Plague Inc. v1.10.1 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.ndemiccreations.plagueinc-1.10.1-iOS-4.3.deb) — `com.ndemiccreations.plagueinc-1.10.1-iOS-4.3.deb`
 - [Plague Inc. v1.12.6 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.ndemiccreations.plagueinc-1.12.6-iOS-6.0.deb) — `com.ndemiccreations.plagueinc-1.12.6-iOS-6.0.deb`
+- [Cut the Rope v2.3.2 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.chillingo.cuttherope-2.3.2-iOS-4.3.deb) — `com.chillingo.cuttherope-2.3.2-iOS-4.3.deb`
 

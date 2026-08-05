@@ -430,3 +430,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Plague Inc. v1.12.6 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.chillingo.cuttherope
+Version: 2.3.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.chillingo.cuttherope-2.3.2-iOS-4.3.deb
+Size: 28653188
+MD5sum: 474b016c53457a550f91ea0e5ea35bcb
+SHA1: a3e96bae16eaaf35fd12bbaaaa92dd689ac0cb3f
+SHA256: d3c746ff03f6fab9c7cc201cc43aaf29bb7b2262a78b7ca529681dc9fff9796e
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 21%20Cut%20the%20Rope%202.3.2%20(186342633).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Cut the Rope v2.3.2 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
