@@ -55,4 +55,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [AVATARiPad v1.1.0 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb) — `com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb`
 - [BIA2HD v1.0.2 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb) — `com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb`
 - [BIA2 v1.1.3 (iOS 3.1.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb) — `com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb`
+- [bia3 v1.4.0 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.gameloft.bia3-1.4.0-iOS-6.0.deb) — `com.gameloft.bia3-1.4.0-iOS-6.0.deb`
 
