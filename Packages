@@ -3,7 +3,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <actions@github.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/com.dotgears.flap-1.0.0-iOS-6.0.deb
+Filename: ./application/com.dotgears.flap-1.0.0-iOS-6.0.deb
 Size: 1403834
 MD5sum: eb143054b30012ee23edb0b4cd444fb6
 SHA1: b853ae7e024c92d7b7a8605f88e745a18edd51cb
@@ -21,7 +21,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 2.0), uikittools, appsync
-Filename: ./game/com.masq.321jump-2.0-iOS-2.0.deb
+Filename: ./application/com.masq.321jump-2.0-iOS-2.0.deb
 Size: 4612768
 MD5sum: b9620bda9e34182a49075475dec32aa8
 SHA1: dc0898d8c9679d5f4749b7a49c2223c66de7c44b
@@ -39,7 +39,7 @@ Version: 4111.1.32
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
+Filename: ./application/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
 Size: 154278748
 MD5sum: 7a379cc851f3069212d7769d5a7ac312
 SHA1: f31a73b802d2c9040d2765382d54e140f488f1fc
@@ -57,7 +57,7 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./game/com.rockstargames.gta3vc-1.3-iOS-4.3.deb
+Filename: ./application/com.rockstargames.gta3vc-1.3-iOS-4.3.deb
 Size: 923405350
 MD5sum: d2d96abf44e6e0453e00328700255ef2
 SHA1: f36c4639dae2636ac02c1d61c1dbe05868fc61f5
@@ -75,7 +75,7 @@ Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./game/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb
+Filename: ./application/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb
 Size: 923935922
 MD5sum: 4ad6c6e7d6000a9e520a3efd9c67c3e7
 SHA1: 640ad2b82d97d9779d2c5ee36367b66a21231b89
@@ -93,7 +93,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./game/com.treehouse.1951-1.0-iOS-3.0.deb
+Filename: ./application/com.treehouse.1951-1.0-iOS-3.0.deb
 Size: 15627470
 MD5sum: b1affe861d52236a11c11d8f992490e5
 SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
@@ -111,7 +111,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./game/com.ketchapp.2048-1.4-iOS-4.3.deb
+Filename: ./application/com.ketchapp.2048-1.4-iOS-4.3.deb
 Size: 2170342
 MD5sum: 5e855da17d4a205d228ba845ddf2d8a5
 SHA1: 5fb5ff860029b5ada3d49e1ad2bea0660de1e231
@@ -129,7 +129,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.1), uikittools, appsync
-Filename: ./game/com.outfit7.talkinggina-2.0-iOS-4.1.deb
+Filename: ./application/com.outfit7.talkinggina-2.0-iOS-4.1.deb
 Size: 41826700
 MD5sum: bb7f621a1b011becf1e29cae225111a5
 SHA1: e7d486e5e5da5230eaec399ad4f6464202f1a9f3
@@ -147,7 +147,7 @@ Version: 1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/com.nordicgames.nfh-1-iOS-6.0.deb
+Filename: ./application/com.nordicgames.nfh-1-iOS-6.0.deb
 Size: 299862956
 MD5sum: 30e6bc52e88a850d0d013d05dd55a8f1
 SHA1: 8f732a4e0e24cf16f3b4c98c1e94b03b82d27264
@@ -165,7 +165,7 @@ Version: 14
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb
+Filename: ./application/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb
 Size: 68050474
 MD5sum: 609fce38a1cb9b79e0c30f293eb2e055
 SHA1: a4a6986307cfac63ee7b47cca7213f4fec992983
@@ -183,7 +183,7 @@ Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 2.2.1), uikittools, appsync
-Filename: ./game/com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb
+Filename: ./application/com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb
 Size: 102797208
 MD5sum: c0f36f450c4eaa06e0673c57ebc6ca27
 SHA1: c193fbd0c13b8a0956546e91fc835f6b6fb79938
@@ -201,7 +201,7 @@ Version: 1170
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/com.glu.ewarriors4-1170-iOS-6.0.deb
+Filename: ./application/com.glu.ewarriors4-1170-iOS-6.0.deb
 Size: 176072564
 MD5sum: 13d47fae59c554e697e231e1b82e936a
 SHA1: 0229e0778c48bec0243bcc062db5804d380854cf
@@ -219,7 +219,7 @@ Version: 121
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./game/com.hzapptech.tetris-lite-121-iOS-5.0.deb
+Filename: ./application/com.hzapptech.tetris-lite-121-iOS-5.0.deb
 Size: 18886518
 MD5sum: 517d88e604609ab10ae6f0e726df8bc7
 SHA1: 04a32e70c0e267954e9e7c7a2f77c591fa9e6ec5
@@ -237,7 +237,7 @@ Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./game/com.nordcurrent.101in1HD-1.0.6-iOS-5.0.deb
+Filename: ./application/com.nordcurrent.101in1HD-1.0.6-iOS-5.0.deb
 Size: 224201134
 MD5sum: c4f510a752e0c54b749e2de7b3810ea8
 SHA1: bce49fe0219f6fbe002ca89b04a933a871514573
@@ -248,5 +248,23 @@ Description: The decrypted ipa file: 101+GamesHD_1.0.6_AppOnly.ipa converted to 
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: 101 GamesHD v1.0.6 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.apple.iBooks
+Version: 1929
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./application/com.apple.iBooks-1929-iOS-5.0.deb
+Size: 29762498
+MD5sum: 735a1dd350e73eb843523b0a9b02ed37
+SHA1: 8c9b2efa8df0b0a5fe5fcf39e58ee0cc50607a25
+SHA256: e3235d3fd2d5a3149fdfafc2c9b1ef39256dec1ae7eb24784f99df3f65cee7bb
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: iBooks_3.1.3_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: iBooks v1929 (iOS 5.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
