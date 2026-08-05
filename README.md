@@ -29,4 +29,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Plague Inc. v1.12.6 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.ndemiccreations.plagueinc-1.12.6-iOS-6.0.deb) — `com.ndemiccreations.plagueinc-1.12.6-iOS-6.0.deb`
 - [Cut the Rope v2.3.2 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.chillingo.cuttherope-2.3.2-iOS-4.3.deb) — `com.chillingo.cuttherope-2.3.2-iOS-4.3.deb`
 - [Cut the Rope v2.5 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.chillingo.cuttherope-2.5-iOS-5.0.deb) — `com.chillingo.cuttherope-2.5-iOS-5.0.deb`
+- [Cut the Rope v2.6 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.chillingo.cuttherope-2.6-iOS-6.0.deb) — `com.chillingo.cuttherope-2.6-iOS-6.0.deb`
 

@@ -466,3 +466,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Cut the Rope v2.5 (iOS 5.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.chillingo.cuttherope
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.chillingo.cuttherope-2.6-iOS-6.0.deb
+Size: 43284172
+MD5sum: 039a473760a6a23eb08aefd18f68ed77
+SHA1: 736002aed434cae0326cdc8f65387c00c48f44d9
+SHA256: a019e14729d2a842b3be8ee7960554caedb9a15cc6b8cf6ed2a74a56250f1d52
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 28%20Cut%20the%20Rope%202.6%20(838565593).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Cut the Rope v2.6 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
