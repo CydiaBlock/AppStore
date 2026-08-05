@@ -33,4 +33,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Bloons TD 5 v13454 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb) — `com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb`
 - [Bloons TD 5 v20421 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.ninjakiwi.bloonstd5-20421-iOS-6.0.deb) — `com.ninjakiwi.bloonstd5-20421-iOS-6.0.deb`
 - [Bloons TD 5 HD v13198 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.ninjakiwi.bloonstd5hd-13198-iOS-4.3.deb) — `com.ninjakiwi.bloonstd5hd-13198-iOS-4.3.deb`
+- [The Room v1.03 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.FireproofStudios.TheRoom-1.03-iOS-5.0.deb) — `com.FireproofStudios.TheRoom-1.03-iOS-5.0.deb`
 
