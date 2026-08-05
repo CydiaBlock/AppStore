@@ -51,4 +51,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [AmazingSpiderMan v1.0.3 (iOS 4.0)](https://cydia.cloudpanic.org/game/com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb) — `com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb`
 - [AssassinsCreed v1.3.3 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb) — `com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb`
 - [Assassins Creed HD v1.0.1 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb) — `com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb`
+- [AVATAR v1.4.9 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb) — `com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb`
 
