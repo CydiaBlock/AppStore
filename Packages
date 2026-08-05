@@ -916,3 +916,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: BIA2HD v1.0.2 (iOS 3.2)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.BIA2
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.1.2), uikittools, appsync
+Filename: ./game/com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb
+Size: 266806438
+MD5sum: 1dc096f0c42b85b1a7240d23d683bf34
+SHA1: 95d18e2a57bfe83501cbf81e6b329bba64811328
+SHA256: db9aeca6541b9fe95daa0aece71b2cf079e552bf6132cd8f2900feaf369b8d8b
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.BIA2-iOS3.1.2-(Clutch-2.0.4).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: BIA2 v1.1.3 (iOS 3.1.2)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
