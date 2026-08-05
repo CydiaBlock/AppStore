@@ -286,3 +286,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Pikachu v1.0 (iOS 3.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.9mm
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.1), uikittools, appsync
+Filename: ./game/com.gameloft.9mm-1.0.3-iOS-5.1.deb
+Size: 753905952
+MD5sum: 3c599c2fca1cff81bf25056fed28125e
+SHA1: d654c2c7215337bc12a46cd613e9ee93a4385c1e
+SHA256: 972c17bc9f9df418ce8ca7aac5ae29d14b2db811913d012122847f22c93944ea
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 9mm%20by%20Gameloft%20%281.0.3%29.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 9mm v1.0.3 (iOS 5.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+

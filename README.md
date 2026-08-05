@@ -19,4 +19,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [101 GamesHD v1.0.6 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.nordcurrent.101in1HD-1.0.6-iOS-5.0.deb) — `com.nordcurrent.101in1HD-1.0.6-iOS-5.0.deb`
 - [iBooks v1929 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.apple.iBooks-1929-iOS-5.0.deb) — `com.apple.iBooks-1929-iOS-5.0.deb`
 - [Pikachu v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.afoli.pikachu-1.0-iOS-3.0.deb) — `com.afoli.pikachu-1.0-iOS-3.0.deb`
+- [9mm v1.0.3 (iOS 5.1)](https://cydia.cloudpanic.org/game/com.gameloft.9mm-1.0.3-iOS-5.1.deb) — `com.gameloft.9mm-1.0.3-iOS-5.1.deb`
 
