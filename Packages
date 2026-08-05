@@ -502,3 +502,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Bloons TD 5 v13454 (iOS 4.3)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.ninjakiwi.bloonstd5
+Version: 20421
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.ninjakiwi.bloonstd5-20421-iOS-6.0.deb
+Size: 91839770
+MD5sum: 351a9991fd4c3d8abbff449ee483e696
+SHA1: e63c8b5e1371f91899a1130a0ed32c8de47ac4cf
+SHA256: 26d79ad7a5d5bd2c7e236fb11604d1cdc5535371bbaaf24de9948f79e90861db
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Bloons%20TD%205-v3.18--iOS6.0-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Bloons TD 5 v20421 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
