@@ -56,4 +56,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [BIA2HD v1.0.2 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb) — `com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb`
 - [BIA2 v1.1.3 (iOS 3.1.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb) — `com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb`
 - [bia3 v1.4.0 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.gameloft.bia3-1.4.0-iOS-6.0.deb) — `com.gameloft.bia3-1.4.0-iOS-6.0.deb`
+- [gangstar4 v1.0.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.gangstar4-1.0.0-iOS-5.0.deb) — `com.gameloft.gangstar4-1.0.0-iOS-5.0.deb`
 

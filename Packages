@@ -952,3 +952,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: bia3 v1.4.0 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.gangstar4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.gangstar4-1.0.0-iOS-5.0.deb
+Size: 1392494718
+MD5sum: 301ddc3017bafe7df135a13b26e0ee3c
+SHA1: ba15a332451c107254a821c0adcc042916ad5893
+SHA256: ea30c5701a43302188e18c3dc9c411bc074f2cd726fe0585f9e68c179d4f9fef
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: gangstar4-(com.gameloft.gangstar4)-1.0.0-(iOS_5.0)-4487b3ee852a3bd071064020040a05df.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: gangstar4 v1.0.0 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
