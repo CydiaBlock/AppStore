@@ -826,3 +826,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Asphalt O v1.0.2 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.AmazingSpiderMan
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.0), uikittools, appsync
+Filename: ./game/com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb
+Size: 824989406
+MD5sum: e30cf5279bc22601f160f65d9e0c84a0
+SHA1: 2f31b0e90d2db49fca7f459263065a2a38d78bed
+SHA256: 2d628c8b58de391a44e99b2f392a5c88f145ef0f3d53d8a6b01c536878ec1980
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: AmazingSpiderMan_v1.0.3_os40.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: AmazingSpiderMan v1.0.3 (iOS 4.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
