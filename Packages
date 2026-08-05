@@ -880,3 +880,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: AVATAR v1.4.9 (iOS 3.1.3)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.AVATARiPad
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.2), uikittools, appsync
+Filename: ./game/com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb
+Size: 211245234
+MD5sum: 411bd5aa6b6571319ee2ebc4a2c3a198
+SHA1: d758f39de40cff72907ad016414af09a491797ed
+SHA256: cbf2922f0364defbfa06e3f895f00af9e4bfae78bfedd56f4ff58a3b819051f7
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: AVATARiPad_v1.1.0_os32_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: AVATARiPad v1.1.0 (iOS 3.2)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
