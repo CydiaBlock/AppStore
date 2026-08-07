@@ -15,13 +15,29 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Flappy Bird v1.0.0 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.dotgears.flap-1.0.0-iOS-6.0.deb) — `com.dotgears.flap-1.0.0-iOS-6.0.deb`
 - [9mm v1.0.3 (iOS 5.1)](https://cydia.cloudpanic.org/game/com.gameloft.9mm-1.0.3-iOS-5.1.deb) — `com.gameloft.9mm-1.0.3-iOS-5.1.deb`
 - [ASPHALT4 v1.3.8 (iOS 2.1)](https://cydia.cloudpanic.org/game/com.gameloft.ASPHALT4-1.3.8-iOS-2.1.deb) — `com.gameloft.ASPHALT4-1.3.8-iOS-2.1.deb`
+- [AVATAR v1.4.9 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb) — `com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb`
+- [AVATARiPad v1.1.0 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb) — `com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb`
+- [AmazingSpiderMan v1.0.3 (iOS 4.0)](https://cydia.cloudpanic.org/game/com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb) — `com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb`
 - [Asphalt5 v1.2.6 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt5-1.2.6-iOS-3.0.deb) — `com.gameloft.Asphalt5-1.2.6-iOS-3.0.deb`
 - [Asphalt5iPad v1.1.1 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt5iPad-1.1.1-iOS-3.2.deb) — `com.gameloft.Asphalt5iPad-1.1.1-iOS-3.2.deb`
 - [Asphalt 6 v1.5.1 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt6ipad-1.5.1-iOS-3.2.deb) — `com.gameloft.Asphalt6ipad-1.5.1-iOS-3.2.deb`
+- [Asphalt7 v1.8.1 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb) — `com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb`
+- [AsphaltAudiRS3 v1.0.1 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb) — `com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb`
+- [AssassinsCreed v1.3.3 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb) — `com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb`
+- [Assassins Creed HD v1.0.1 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb) — `com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb`
 - [BIA v1.3.5 (iOS 3.1.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA-1.3.5-iOS-3.1.2.deb) — `com.gameloft.BIA-1.3.5-iOS-3.1.2.deb`
+- [BIA2 v1.1.3 (iOS 3.1.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb) — `com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb`
+- [BIA2HD v1.0.2 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb) — `com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb`
 - [BackStab v1.0.0 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.BackStab-1.0.0-iOS-3.1.3.deb) — `com.gameloft.BackStab-1.0.0-iOS-3.1.3.deb`
 - [BladesOfFury v1.1.3 (iOS 2.2.1)](https://cydia.cloudpanic.org/game/com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb) — `com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb`
 - [1 vs 100 v1.1.4 (iOS 2.2.1)](https://cydia.cloudpanic.org/game/com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb) — `com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb`
+- [Asphalt 8 v1.0.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.0.0-iOS-5.0.deb) — `com.gameloft.asphalt8-1.0.0-iOS-5.0.deb`
+- [Asphalt 8 v1.4.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.4.0-iOS-5.0.deb) — `com.gameloft.asphalt8-1.4.0-iOS-5.0.deb`
+- [Asphalt 8 v1.7.2 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.7.2-iOS-5.0.deb) — `com.gameloft.asphalt8-1.7.2-iOS-5.0.deb`
+- [Asphalt O v1.0.2 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb) — `com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb`
+- [bia3 v1.4.0 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.gameloft.bia3-1.4.0-iOS-6.0.deb) — `com.gameloft.bia3-1.4.0-iOS-6.0.deb`
+- [gangstar4 v1.0.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.gangstar4-1.0.0-iOS-5.0.deb) — `com.gameloft.gangstar4-1.0.0-iOS-5.0.deb`
+- [gangstar4 v1.5.0 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.gameloft.gangstar4-1.5.0-iOS-6.0.deb) — `com.gameloft.gangstar4-1.5.0-iOS-6.0.deb`
 - [Warriors 4 v1170 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.glu.ewarriors4-1170-iOS-6.0.deb) — `com.glu.ewarriors4-1170-iOS-6.0.deb`
 - [MyTetris-Lite v121 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.hzapptech.tetris-lite-121-iOS-5.0.deb) — `com.hzapptech.tetris-lite-121-iOS-5.0.deb`
 - [2048 v1.4 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.ketchapp.2048-1.4-iOS-4.3.deb) — `com.ketchapp.2048-1.4-iOS-4.3.deb`
@@ -39,22 +55,9 @@ Decrypted iOS applications and games converted to DEB packages.
 - [GTA Vice City v1.5.1 (iOS 5.1.1)](https://cydia.cloudpanic.org/game/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb) — `com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb`
 - [Z.Tsunami v13 (iOS 6.0)](https://cydia.cloudpanic.org/game/net.mobigame.ZombieCarnaval-13-iOS-6.0.deb) — `net.mobigame.ZombieCarnaval-13-iOS-6.0.deb`
 - [Z.Tsunami v14 (iOS 6.0)](https://cydia.cloudpanic.org/game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb) — `net.mobigame.ZombieCarnaval-14-iOS-6.0.deb`
-- [iBooks v1929 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.apple.iBooks-1929-iOS-5.0.deb) — `com.apple.iBooks-1929-iOS-5.0.deb`
-- [1951 v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.treehouse.1951-1.0-iOS-3.0.deb) — `com.treehouse.1951-1.0-iOS-3.0.deb`
-- [Asphalt 6 v1.3.8 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb) — `com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb`
-- [Asphalt7 v1.8.1 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb) — `com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb`
-- [Asphalt 8 v1.0.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.0.0-iOS-5.0.deb) — `com.gameloft.asphalt8-1.0.0-iOS-5.0.deb`
-- [Asphalt 8 v1.4.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.4.0-iOS-5.0.deb) — `com.gameloft.asphalt8-1.4.0-iOS-5.0.deb`
-- [Asphalt 8 v1.7.2 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphalt8-1.7.2-iOS-5.0.deb) — `com.gameloft.asphalt8-1.7.2-iOS-5.0.deb`
-- [AsphaltAudiRS3 v1.0.1 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb) — `com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb`
-- [Asphalt O v1.0.2 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb) — `com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb`
-- [AmazingSpiderMan v1.0.3 (iOS 4.0)](https://cydia.cloudpanic.org/game/com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb) — `com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb`
-- [AssassinsCreed v1.3.3 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb) — `com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb`
-- [Assassins Creed HD v1.0.1 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb) — `com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb`
-- [AVATAR v1.4.9 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb) — `com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb`
-- [AVATARiPad v1.1.0 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb) — `com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb`
-- [BIA2HD v1.0.2 (iOS 3.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb) — `com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb`
-- [BIA2 v1.1.3 (iOS 3.1.2)](https://cydia.cloudpanic.org/game/com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb) — `com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb`
-- [bia3 v1.4.0 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.gameloft.bia3-1.4.0-iOS-6.0.deb) — `com.gameloft.bia3-1.4.0-iOS-6.0.deb`
-- [gangstar4 v1.0.0 (iOS 5.0)](https://cydia.cloudpanic.org/game/com.gameloft.gangstar4-1.0.0-iOS-5.0.deb) — `com.gameloft.gangstar4-1.0.0-iOS-5.0.deb`
+
+## Application
+- [iBooks v1929 (iOS 5.0)](https://cydia.cloudpanic.org/application/com.apple.iBooks-1929-iOS-5.0.deb) — `com.apple.iBooks-1929-iOS-5.0.deb`
+- [Asphalt 6 v1.3.8 (iOS 3.1.3)](https://cydia.cloudpanic.org/application/com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb) — `com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb`
+- [1951 v1.0 (iOS 3.0)](https://cydia.cloudpanic.org/application/com.treehouse.1951-1.0-iOS-3.0.deb) — `com.treehouse.1951-1.0-iOS-3.0.deb`
 
