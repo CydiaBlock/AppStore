@@ -994,13 +994,13 @@ Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
 Filename: ./application/com.google.Maps-4.3.51252-iOS-6.0.deb
-Size: 20312560
-MD5sum: 9ab4f85db99aca1705dcd279731a5557
-SHA1: 3ccbda68e7a40128b61047eb82c134ee2faaf32c
-SHA256: d84c29b90213bf8980a4f9ed2844a612f18f4af59a4a96968ed09e0b8755c12e
+Size: 20313138
+MD5sum: e27e7704de10182c4f99ad648da21584
+SHA1: 87b91fe6486d5ade88f9e4ebd983c1dce1d41522
+SHA256: 37c4f6c5167a88b8c2744f93f703b6f7c1289686f6b422de13003f6b0f98444f
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Google+Maps_4.3.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: GoogleMapsClassic.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: Google Maps v4.3.51252 (iOS 6.0)
