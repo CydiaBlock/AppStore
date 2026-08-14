@@ -67,6 +67,59 @@ jobs:
             exit 1
           }
 
+      - name: Filter out duplicate packages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          # Lấy danh sách file đã upload ở Release hiện tại (nếu release đã tồn tại)
+          existing_assets=$(gh release view "$RELEASE_TAG" --json assets --jq '.assets[].name' 2>/dev/null || echo "")
+          [ -f Packages ] || touch Packages
+
+          echo "🔍 Đang kiểm tra trùng lặp..."
+
+          for deb in work/deb/*.deb; do
+            [ -e "$deb" ] || continue
+            
+            deb_filename=$(basename "$deb")
+            pkg_id=$(dpkg-deb -f "$deb" Package || echo "")
+            pkg_ver=$(dpkg-deb -f "$deb" Version || echo "")
+
+            # 1. Kiểm tra tên file trùng trên GitHub Release
+            if echo "$existing_assets" | grep -qx "$deb_filename"; then
+              echo "⚠️ File '$deb_filename' đã có trên Release '$RELEASE_TAG' -> Bỏ qua!"
+              rm -f "$deb"
+              continue
+            fi
+
+            # 2. Kiểm tra Package ID + Version trong file Packages
+            if [ -n "$pkg_id" ] && [ -n "$pkg_ver" ]; then
+              is_dup=$(awk -v pkg="$pkg_id" -v ver="$pkg_ver" '
+                BEGIN { p=0; v=0; dup=0 }
+                /^Package: / { p = ($2 == pkg) }
+                /^Version: / { v = ($2 == ver) }
+                p && v { dup=1 }
+                /^$/ { p=0; v=0 }
+                END { print dup }
+              ' Packages)
+
+              if [ "$is_dup" -eq "1" ]; then
+                echo "⚠️ App/Game '$pkg_id' (v$pkg_ver) đã có trong danh sách Packages -> Bỏ qua!"
+                rm -f "$deb"
+                continue
+              fi
+            fi
+
+            echo "✅ Package hợp lệ: $pkg_id (v$pkg_ver)"
+          done
+
+          # Kiểm tra còn file DEB nào mới để xử lý không
+          if ! compgen -G 'work/deb/*.deb' > /dev/null; then
+            echo "❌ Tất cả các file DEB nhập vào đều bị trùng (App/Game/Version đã tồn tại). Dừng workflow."
+            exit 1
+          fi
+
       - name: Create or update Release
         env:
           GH_TOKEN: ${{ github.token }}
