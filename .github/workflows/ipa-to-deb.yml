@@ -22,6 +22,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   build:
@@ -73,7 +74,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Lấy danh sách file đã upload ở Release hiện tại (nếu release đã tồn tại)
+          # Lấy danh sách file đã upload ở Release hiện tại
           existing_assets=$(gh release view "$RELEASE_TAG" --json assets --jq '.assets[].name' 2>/dev/null || echo "")
           [ -f Packages ] || touch Packages
 
@@ -93,7 +94,7 @@ jobs:
               continue
             fi
 
-            # 2. Kiểm tra Package ID + Version trong file Packages
+            # 2. Kiểm tra Package ID + Version trong file Packages metadata
             if [ -n "$pkg_id" ] && [ -n "$pkg_ver" ]; then
               is_dup=$(awk -v pkg="$pkg_id" -v ver="$pkg_ver" '
                 BEGIN { p=0; v=0; dup=0 }
@@ -114,10 +115,35 @@ jobs:
             echo "✅ Package hợp lệ: $pkg_id (v$pkg_ver)"
           done
 
-          # Kiểm tra còn file DEB nào mới để xử lý không
+          # Kiểm tra còn file DEB nào mới để xử lý tiếp không
           if ! compgen -G 'work/deb/*.deb' > /dev/null; then
-            echo "❌ Tất cả các file DEB nhập vào đều bị trùng (App/Game/Version đã tồn tại). Dừng workflow."
+            echo "❌ Tất cả các file DEB nhập vào đều bị trùng. Dừng workflow."
             exit 1
+          fi
+
+      - name: Dynamic Update Workflow Run Name
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          first_deb=$(ls work/deb/*.deb 2>/dev/null | head -n 1)
+          
+          if [ -n "$first_deb" ]; then
+            # Ưu tiên lấy Name hiển thị, nếu không có lấy Package Bundle ID
+            app_name=$(dpkg-deb -f "$first_deb" Name 2>/dev/null || dpkg-deb -f "$first_deb" Package)
+            app_ver=$(dpkg-deb -f "$first_deb" Version 2>/dev/null || echo "")
+            
+            total_count=$(ls -1 work/deb/*.deb | wc -l)
+            
+            if [ "$total_count" -gt 1 ]; then
+              title="Build: $app_name v$app_ver (+$((total_count - 1)) apps)"
+            else
+              title="Build: $app_name v$app_ver"
+            fi
+
+            echo "🏷️ Cập nhật tên lượt chạy thành: $title"
+            gh api -X PATCH "/repos/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+              -f name="$title" || echo "⚠️ Không thể đổi tên lượt chạy (có thể do thiếu quyền API)"
           fi
 
       - name: Create or update Release
