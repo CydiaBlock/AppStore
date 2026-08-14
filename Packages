@@ -1114,3 +1114,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Talking Tom 2 v2.1 (iOS 3.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.outfit7.talkingtom2
+Version: 4.7.0.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.outfit7.talkingtom2-4.7.0.1-iOS-5.0.deb
+Size: 30247658
+MD5sum: fb74fcbfd5366512f0eb0a988803d82e
+SHA1: 814b10531a92f6d14d866fc587b272165a913118
+SHA256: b50d5424adfe5195b55f4697f3060d8c8d303d33230993b49b13c5db4e43d7f6
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Talking%20Tom%202%204.7.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Talking Tom 2 v4.7.0.1 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
