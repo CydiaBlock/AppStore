@@ -61,4 +61,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Google Maps v4.3.51252 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.google.Maps-4.3.51252-iOS-6.0.deb) — `com.google.Maps-4.3.51252-iOS-6.0.deb`
 - [HOS2 v1.0.3 (iOS 3.1.3)](https://cydia.cloudpanic.org/game/com.gameloft.HOS2-1.0.3-iOS-3.1.3.deb) — `com.gameloft.HOS2-1.0.3-iOS-3.1.3.deb`
 - [InfinityBlade2 v9714.140 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.chairentertainment.IB2-9714.140-iOS-6.0.deb) — `com.chairentertainment.IB2-9714.140-iOS-6.0.deb`
+- [Talking Tom v2.1 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.outfit7.talkingtom-2.1-iOS-4.3.deb) — `com.outfit7.talkingtom-2.1-iOS-4.3.deb`
 

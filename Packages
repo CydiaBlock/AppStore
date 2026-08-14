@@ -1042,3 +1042,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: InfinityBlade2 v9714.140 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.outfit7.talkingtom
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.outfit7.talkingtom-2.1-iOS-4.3.deb
+Size: 19542478
+MD5sum: 68e23854f5e3ea0d1bc5f428f69ed94a
+SHA1: a5872a8fe531e7f8a5d62712d2b193bae06f46c0
+SHA256: 2aa7012790a20bb460e851c0b151028ff24ca9dfb65cfebc739a2ea60be4d889
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Talking%20Tom-v2.1-gamer%20master%2055.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Talking Tom v2.1 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
