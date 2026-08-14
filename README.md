@@ -64,4 +64,5 @@ Decrypted iOS applications and games converted to DEB packages.
 - [Talking Tom v2.1 (iOS 4.3)](https://cydia.cloudpanic.org/game/com.outfit7.talkingtom-2.1-iOS-4.3.deb) — `com.outfit7.talkingtom-2.1-iOS-4.3.deb`
 - [Talking Tom v2.7 (iOS 6.0)](https://cydia.cloudpanic.org/game/com.outfit7.talkingtomipad-2.7-iOS-6.0.deb) — `com.outfit7.talkingtomipad-2.7-iOS-6.0.deb`
 - [Talking Tom 2 v2.0 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.outfit7.talkingtom2-2.0-iOS-3.0.deb) — `com.outfit7.talkingtom2-2.0-iOS-3.0.deb`
+- [Talking Tom 2 v2.1 (iOS 3.0)](https://cydia.cloudpanic.org/game/com.outfit7.talkingtom2-2.1-iOS-3.0.deb) — `com.outfit7.talkingtom2-2.1-iOS-3.0.deb`
 
